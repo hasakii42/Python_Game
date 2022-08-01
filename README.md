@@ -20,8 +20,8 @@ Tkinter is default toolkit so it will be on your computer once you installed pyt
 # Python_Game
 The Death Note Anime based game
 
-![](1.png)
 
+![](1.png)
 
 # Objective
 To Create a GUI of a game based on The anime death note.
